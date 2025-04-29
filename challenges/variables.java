@@ -2,6 +2,7 @@ package challenges;
 public class variables {
     void calculateInterest(){
         double amount, rate, time, interest;
+        
         amount = 1000; 
         rate = 5; 
         time = 2; 
