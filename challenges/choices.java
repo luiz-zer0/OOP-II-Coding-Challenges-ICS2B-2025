@@ -1,6 +1,7 @@
 package challenges;
 import java.util.Scanner;
 
+
 public class choices {
     //the program asks your age and it determines if you are a minor or an adult
     void checkAge(){
