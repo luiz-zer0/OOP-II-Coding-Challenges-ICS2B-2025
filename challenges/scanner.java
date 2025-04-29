@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class scanner {
         
+        
         void convertTemp(){
             Scanner sc = new Scanner(System.in);
             System.out.println("Enter the temperature in Celsius:");
