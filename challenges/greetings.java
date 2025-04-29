@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class greetings {
     
+    
     void salutation(){
         
         System.out.println("Wassupp!!!");
