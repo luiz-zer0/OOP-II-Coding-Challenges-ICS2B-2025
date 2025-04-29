@@ -1,5 +1,6 @@
 package challenges;
 public class condition {
+    
     //using traffic light to determine colour of light using while loop changing it after every 10 seconds
     public static void main(String[] args) throws InterruptedException {
         String light = "red";
